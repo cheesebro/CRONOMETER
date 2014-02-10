@@ -1,0 +1,29 @@
+CRON-o-Meter is an open source nutrition tracker. All files, unless otherwise specified, are distributed under the terms of the CPL version 1.0 (See LICENCE.txt).
+
+   Copyright (C) 2005-2011 Aaron Davidson <aaron@spaz.ca> 
+   Copyright (C) 2005      Chris Rose / AIMedia <chris@offlineblog.com>
+   Copyright (C) 2005      Simon Werner <simon.werner@gmail.com>
+   Copyright (C) 2006-2007 Gerald Turnquist <geraldt@sasktel.net>
+   Copyright (C) 2005-2010 Michael Rae <mikalra@cadvision.com>
+   Copyright (C) 2005-2007 Antonio Zamora <zamora@scientificpsychic.com>
+
+and are distributed under the terms of the Common Public License Version
+1.0 (see the file LICENSE.txt).
+
+The file lib/usda_sr24.jar is based on a data files downloaded from the
+US Department of Agriculture's website. According to the USDA's FAQ
+[http://www.ars.usda.gov/Main/docs.htm?docid=6233#copyright]:
+
+   USDA food composition data is in the public domain and there is no
+   copyright.
+
+The files:
+
+* BrowserLauncher.java
+   Copyright (C) 1999-2001 Eric Albert <ejalbert@cs.stanford.edu> 
+
+* RiverLayout.java
+   Copyright (C) 2005      David Ekholm <david@jalbum.net>
+
+are distributed under the terms described in their headers.
+
